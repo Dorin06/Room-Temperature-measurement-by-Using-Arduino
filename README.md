@@ -1,0 +1,1 @@
+This project involves using an Arduino to measure room temperature with a  LM35 sensor, displaying the results on a LM35. The sensor reads the temperature, which the Arduino processes and shows on the display in real-time. This simple setup is ideal for learning the basics of embedded systems and how sensors interact with microcontrollers to provide practical data.
